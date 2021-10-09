@@ -1,1 +1,1 @@
-# jest-auto-test
+jest-auto-test
