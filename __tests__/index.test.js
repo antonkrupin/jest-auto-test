@@ -4,3 +4,8 @@ test('reverse', () => {
   expect(reverse('hello')).toEqual('olleh');
   expect(reverse('')).toEqual('');
 });
+
+test('reverse test super test 1', () => {
+  expect(reverse('yes')).toEqual('sey');
+  
+});
