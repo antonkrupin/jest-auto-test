@@ -7,5 +7,5 @@ test('reverse', () => {
 
 test('reverse test super test 1', () => {
   expect(reverse('yes')).toEqual('sey');
-  expect(reverse('test')).toEqual('test');
+  expect(reverse('test')).toEqual('tset');
 });
